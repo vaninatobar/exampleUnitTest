@@ -1,0 +1,20 @@
+# Default SonarQube server
+sonar.host.url=http://localhost:9000
+
+# must be unique in a given SonarQube instance
+sonar.projectKey=test2jest
+ 
+# defaults to project key
+sonar.projectName=test2jest
+ 
+# Encoding of the source code. Default is default system encoding
+#sonar.sourceEncoding=UTF-8
+
+# defaults to 'not provided'
+sonar.projectVersion=1.0
+
+# Path is relative to the sonar-project.properties file. Defaults to .
+sonar.sources=.
+
+# Token
+sonar.login=0e1e0b7b663320037aaaa5681d75b424ce2f9600

@@ -1,0 +1,27 @@
+{
+  "name": "exampleunittest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaninatobar/exampleUnitTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaninatobar/exampleUnitTest/issues"
+  },
+  "homepage": "https://github.com/vaninatobar/exampleUnitTest#readme",
+  "devDependencies": {
+    "@babel/core": "^7.15.5",
+    "@babel/preset-env": "^7.15.4",
+    "babel-jest": "^27.1.1",
+    "babel-plugin-istanbul": "^6.0.0",
+    "jest": "^27.1.1"
+  }
+}
